@@ -1,0 +1,9 @@
+/Users/aman/Documents/java_practice/Assignment_Sapient/products-api/src/main/java/com/aman/productsapi/ProductsApiApplication.java
+/Users/aman/Documents/java_practice/Assignment_Sapient/products-api/src/main/java/com/aman/productsapi/config/CorsConfig.java
+/Users/aman/Documents/java_practice/Assignment_Sapient/products-api/src/main/java/com/aman/productsapi/config/SwaggerConfig.java
+/Users/aman/Documents/java_practice/Assignment_Sapient/products-api/src/main/java/com/aman/productsapi/controller/ProductController.java
+/Users/aman/Documents/java_practice/Assignment_Sapient/products-api/src/main/java/com/aman/productsapi/dto/ProductResponseDTO.java
+/Users/aman/Documents/java_practice/Assignment_Sapient/products-api/src/main/java/com/aman/productsapi/exception/GlobalExceptionHandler.java
+/Users/aman/Documents/java_practice/Assignment_Sapient/products-api/src/main/java/com/aman/productsapi/model/Product.java
+/Users/aman/Documents/java_practice/Assignment_Sapient/products-api/src/main/java/com/aman/productsapi/repository/ProductRepository.java
+/Users/aman/Documents/java_practice/Assignment_Sapient/products-api/src/main/java/com/aman/productsapi/service/ProductService.java
